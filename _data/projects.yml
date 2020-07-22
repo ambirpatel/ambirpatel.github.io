@@ -7,4 +7,16 @@
     
   description: | # this will include new lines to allow paragraphs
     • Trained an intelligent agent that draws bounding boxes around an object in the image. This implementation combines CNN, DQN, and SVM to detect an object in an image.
+    
+    • The algorithm extract features from CNN which are fed to DQN to train an agent to localize the object and this localized object is categorized using the SVM model.
+
+- layout: top-middle
+  name: Object Localization using Deep Reinforcement Learning.
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: https://github.com/ambirpatel/Object-Localization-using-Deep-Reinforcement-Learning
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    • Trained an intelligent agent that draws bounding boxes around an object in the image. This implementation combines CNN, DQN, and SVM to detect an object in an image.
+    
     • The algorithm extract features from CNN which are fed to DQN to train an agent to localize the object and this localized object is categorized using the SVM model.
