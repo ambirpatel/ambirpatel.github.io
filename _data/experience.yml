@@ -1,0 +1,13 @@
+# Experience template
+- layout: left
+  company: Pivotchain Solutions
+  link: https://pivotchain.com/
+  job_title: Data Scientist
+  dates: December 2019 - present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Part of the team that developed a smart AI system for Logistics Warehouses which detects abnormal activities and track operations in real-time.
+    • Worked on end to end machine learning pipeline, from data collections, data pre-processing, model development to model deployment. 
+    • Applied State Of The Arts methods in computer vision for solving real life problems.
+    • Worked of git, AWS EC2, dockers, unittest, flask, and mongodb.
