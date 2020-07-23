@@ -10,7 +10,7 @@ email: ambir.patel@gmail.com
 # website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: ambir_p
@@ -20,7 +20,7 @@ github_username:  ambirpatel
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: ambripatel
+linkedin_username: ambirpatel
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
